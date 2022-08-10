@@ -1,0 +1,21 @@
+p {
+    padding-bottom: 15%;
+}
+
+.btn {
+    border-radius: 15px;
+    color: black;
+    font-weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #FDF227;
+    border-color: #FDF227;
+    border: 5px;
+}
+
+.btn:hover {
+    background-color: #135e69;
+    border-color: #135e69;
+    border: 10px;
+}
+
+
